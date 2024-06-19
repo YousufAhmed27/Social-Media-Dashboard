@@ -1,0 +1,68 @@
+{
+    "Facebook": {
+        "Account": "@nathanf",
+        "Followers": 1987,
+        "type": "UP",
+        "number": 12
+    },
+    "Twitter": {
+        "Account": "@nathanf",
+        "Followers": 1044,
+        "type": "UP",
+        "number": 99
+    },
+    "Instagram": {
+        "Account": "@realnathanf",
+        "Followers": 11000,
+        "type": "UP",
+        "number": 1099
+    },
+    "Youtube": {
+        "Account": "Nathan F.",
+        "Followers": 8239,
+        "type": "DOWN",
+        "number": 144
+    },
+    "Overview": {
+        "one": {
+            "Followers": 87,
+            "type": "UP",
+            "number": "3%"
+        },
+        "two": {
+            "Followers": 52,
+            "type": "DOWN",
+            "number": "2%"
+        },
+        "three": {
+            "Followers": 5462,
+            "type": "UP",
+            "number": "2257%"
+        },
+        "four": {
+            "Followers": 52000,
+            "type": "UP",
+            "number": "1375%"
+        },
+        "five": {
+            "Followers": 117,
+            "type": "UP",
+            "number": "303%"
+        },
+        "six": {
+            "Followers": 507,
+            "type": "UP",
+            "number": "553%"
+        },
+        "seven": {
+            "Followers": 107,
+            "type": "DOWN",
+            "number": "19%"
+        },
+        "eight": {
+            "Followers": 1407,
+            "type": "DOWN",
+            "number": "12%"
+        }
+    }
+}
